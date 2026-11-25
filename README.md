@@ -78,3 +78,18 @@ I am a BCA graduate interested in Data Science, Artificial Intelligence, and Mac
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 </p>
 
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poonambilwar18&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poonambilwar18&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=poonambilwar18&theme=tokyonight&hide_border=true" />
+</p>
