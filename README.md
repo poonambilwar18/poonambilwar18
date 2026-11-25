@@ -46,3 +46,35 @@ I am a BCA graduate interested in Data Science, Artificial Intelligence, and Mac
 ---
 
 ⭐ Thanks for visiting my profile!
+
+---
+
+## 💻 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+## 📊 Data Science & Machine Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+## 🤖 Deep Learning & AI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
+</p>
+
+## 📈 Data Visualization
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+</p>
+
