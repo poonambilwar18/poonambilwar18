@@ -93,3 +93,21 @@ I am a BCA graduate interested in Data Science, Artificial Intelligence, and Mac
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=poonambilwar18&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/poonam-bilwar-48942024b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:poonambilwar962@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
